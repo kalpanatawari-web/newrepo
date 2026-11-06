@@ -1,0 +1,12 @@
+{
+  "widgetId": "ROOT",
+  "widgetName": "Canvas",
+  "type": "CANVAS_WIDGET",
+  "children": [
+    {
+      "widgetId": "newchilde12",
+      "widgetName": "table",
+      "type": "CANVAS_WIDGET"
+    }
+  ]
+}
